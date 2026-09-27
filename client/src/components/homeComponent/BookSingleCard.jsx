@@ -46,3 +46,4 @@ const BookSingleCard = ({ book }) => {
 };
 
 export default BookSingleCard;
+

@@ -43,3 +43,4 @@ const BookModal = ({ book, onClose }) => {
 };
 
 export default BookModal;
+
