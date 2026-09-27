@@ -2,9 +2,9 @@ pipeline {
     agent any
 
     environment {
-        DOCKER_USER = "adityashindee0733"
-        BACKEND_IMAGE = "adityashindee0733/bookstore-backend"
-        FRONTEND_IMAGE = "adityashindee0733/bookstore-frontend"
+    DOCKER_USER = "adityashinde24"
+    BACKEND_IMAGE = "adityashinde24/bookstore-backend"
+    FRONTEND_IMAGE = "adityashinde24/bookstore-frontend"
     }
 
     stages {
