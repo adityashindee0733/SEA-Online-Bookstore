@@ -14,7 +14,7 @@ const Home = () => {
   useEffect(() => {
     setLoading(true);
     axios
-      .get("http://localhost:30081/books")
+      .get("http://44.223.107.108:30081/books")
       .then((response) => {
         setBooks(response.data.data);
         setLoading(false);
