@@ -5,7 +5,7 @@ pipeline {
     DOCKER_USER = "adityashinde24"
     BACKEND_IMAGE = "adityashinde24/bookstore-backend"
     FRONTEND_IMAGE = "adityashinde24/bookstore-frontend"
-    KUBECONFIG = "C:\\Users\\Aditya\\.kube\\config"
+    KUBECONFIG = "C:\\Users\\Aditya\\.kube\\jenkins-k3s.yaml"
     }
 
     stages {
