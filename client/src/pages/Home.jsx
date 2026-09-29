@@ -36,7 +36,7 @@ const Home = () => {
               alt="logo"
             />
             <a href="/" className="text-3xl font-bold text-white font-alegreya">
-              Ayush's Library
+              Government Library
             </a>
           </div>
 
